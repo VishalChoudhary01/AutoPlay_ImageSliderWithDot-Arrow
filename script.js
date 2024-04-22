@@ -61,7 +61,6 @@ const resetBG = () => {
   });
   buttons[slideNum - 1].style.backgroundColor = "white";
 };
-resetBG();
 const changeSlide = () => {
   resetBG();
 };
